@@ -1,0 +1,3 @@
+# Predictive-Modelling-of-Flight-Landing-Distance
+The objective of this project is to study what factors and how they would impact the landing distance of a commercial flight.
+The objective of this project is to reduce the risk of landing overrun by identifying the different factors and how they impact the landing distance of commercial flights. Two raw data sets with over 800 and 150 observations respectively were studied for the purpose of this project. After merging the two datasets, removing duplicate and missing values, performing completeness and validity check and removing abnormal values we are left with a total of 831 observations (flight) that were used to fit the final linear regression model.
